@@ -3,7 +3,7 @@ import { reviews } from '@/data/reviews';
 import { Star, ArrowRight, Kanban } from 'lucide-react';
 
 export const metadata = {
-  title: 'Best Project Management Software Reviews | Iron Peak Solutions',
+  title: 'Best Project Management Software Reviews | Bright Studio',
   description: 'In-depth reviews of top project management tools including Monday.com, Asana, and more.',
 };
 

@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Terms & Conditions | Iron Peak Solutions',
-  description: 'Terms of use for Iron Peak Solutions.',
+  title: 'Terms & Conditions | Bright Studio',
+  description: 'Terms of use for Bright Studio.',
 };
 
 export default function TermsPage() {
@@ -13,22 +13,22 @@ export default function TermsPage() {
           <p className="text-sm text-slate-500 mb-8">Last Updated: January 2026</p>
 
           <h3>1. Acceptance of Terms</h3>
-          <p>By accessing and using Iron Peak Solutions ("the Site"), you accept and agree to be bound by the terms and provision of this agreement.</p>
+          <p>By accessing and using Bright Studio ("the Site"), you accept and agree to be bound by the terms and provision of this agreement.</p>
 
           <h3>2. Intellectual Property</h3>
-          <p>All content on this site, including text, graphics, logos, and images, is the property of Iron Peak Solutions and is protected by international copyright laws.</p>
+          <p>All content on this site, including text, graphics, logos, and images, is the property of Bright Studio and is protected by international copyright laws.</p>
 
           <h3>3. Use License</h3>
-          <p>Permission is granted to temporarily download one copy of the materials (information or software) on Iron Peak Solutions's website for personal, non-commercial transitory viewing only.</p>
+          <p>Permission is granted to temporarily download one copy of the materials (information or software) on Bright Studio's website for personal, non-commercial transitory viewing only.</p>
 
           <h3>4. Affiliate Disclosure</h3>
           <p>This site uses affiliate links and may earn a commission from certain links. This does not affect your purchases or the price you may pay.</p>
 
           <h3>5. Limitations</h3>
-          <p>In no event shall Iron Peak Solutions be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Iron Peak Solutions's website.</p>
+          <p>In no event shall Bright Studio be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Bright Studio's website.</p>
 
           <h3>6. Governing Law</h3>
-          <p>Any claim relating to Iron Peak Solutions's website shall be governed by the laws of the main operating jurisdiction without regard to its conflict of law provisions.</p>
+          <p>Any claim relating to Bright Studio's website shall be governed by the laws of the main operating jurisdiction without regard to its conflict of law provisions.</p>
           
           <div className="mt-8 pt-8 border-t border-slate-100">
              <p className="text-sm text-slate-500">

@@ -3,7 +3,7 @@ import { reviews } from '@/data/reviews';
 import { Star, ArrowRight, PieChart } from 'lucide-react';
 
 export const metadata = {
-  title: 'Best Payroll Software Reviews | Iron Peak Solutions',
+  title: 'Best Payroll Software Reviews | Bright Studio',
   description: 'In-depth reviews of top payroll including Deel, Rippling, and more.',
 };
 

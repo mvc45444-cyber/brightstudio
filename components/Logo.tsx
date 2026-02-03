@@ -42,10 +42,10 @@ export function Logo({ className = '', size = 'default' }: { className?: string;
 
       {/* Brand Text */}
       <text x="56" y="29" fontFamily="Arial, Helvetica, sans-serif" fontWeight="800" fontSize="20" fill="#1e293b" letterSpacing="-0.5">
-        Iron Peak
+        Bright Studio
       </text>
       <text x="56" y="47" fontFamily="Arial, Helvetica, sans-serif" fontWeight="600" fontSize="13" fill="#d97706" letterSpacing="2">
-        SOLUTIONS
+        STUDIO
       </text>
     </svg>
   );

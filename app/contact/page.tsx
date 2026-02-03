@@ -2,8 +2,8 @@ import { Mail, MessageSquare, ShieldCheck, Zap } from 'lucide-react';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Contact Us | Iron Peak Solutions',
-  description: 'Get in touch with the Iron Peak Solutions team for feedback, suggestions, or partnership inquiries.',
+  title: 'Contact Us | Bright Studio',
+  description: 'Get in touch with the Bright Studio team for feedback, suggestions, or partnership inquiries.',
 };
 
 export default function ContactPage() {
@@ -14,7 +14,7 @@ export default function ContactPage() {
         {/* Page Header */}
         <div className="text-center mb-16 max-w-2xl mx-auto">
           <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 mb-6 tracking-tight">
-            Contact the <span className="text-amber-600">Iron Peak Solutions</span> Team
+            Contact the <span className="text-amber-600">Bright Studio</span> Team
           </h1>
           <p className="text-xl text-slate-600 leading-relaxed">
              Have a question, suggestion, or partnership inquiry? We’d love to hear from you.
@@ -66,8 +66,8 @@ export default function ContactPage() {
                 <div className="relative z-10">
                    <h3 className="text-xl font-bold mb-2">Direct Email</h3>
                    <p className="text-slate-300 mb-6">Prefer email? No problem.</p>
-                   <a href="mailto:hello@ironpeaksolutions.online" className="inline-flex items-center gap-2 bg-amber-500 text-white font-bold px-6 py-3 rounded-lg hover:bg-amber-600 transition-colors">
-                      <Mail className="w-4 h-4" /> hello@ironpeaksolutions.online
+                   <a href="mailto:hello@brightstudio.online" className="inline-flex items-center gap-2 bg-amber-500 text-white font-bold px-6 py-3 rounded-lg hover:bg-amber-600 transition-colors">
+                      <Mail className="w-4 h-4" /> hello@brightstudio.online
                    </a>
                    <p className="mt-6 text-xs text-slate-400 opacity-80">
                       We typically respond within 24-48 hours.

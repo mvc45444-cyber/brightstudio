@@ -64,7 +64,7 @@ export function Footer() {
         </div>
         
         <div className="border-t border-slate-200 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400">
-          <p>&copy; {currentYear} Iron Peak Solutions. All rights reserved.</p>
+          <p>&copy; {currentYear} Bright Studio. All rights reserved.</p>
           <div className="flex gap-4">
              <span>Made with ❤️ for SaaS Founders</span>
           </div>

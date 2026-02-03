@@ -3,7 +3,7 @@ import { reviews } from '@/data/reviews';
 import { Star, ArrowRight, Users } from 'lucide-react';
 
 export const metadata = {
-  title: 'Best CRM Software Reviews | Iron Peak Solutions',
+  title: 'Best CRM Software Reviews | Bright Studio',
   description: 'In-depth reviews of top CRM tools including HubSpot, Salesforce, and more.',
 };
 
